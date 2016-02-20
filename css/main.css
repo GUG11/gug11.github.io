@@ -14,7 +14,7 @@ nav ul li, footer ul li {
 }
 a {
     text-decoration: none;
-    color: #999;
+    color: blue;
 }
 a:hover {
     text-decoration: underline;
@@ -40,4 +40,21 @@ ul.posts {
 
 ul.posts li {
     list-style: none;
+}
+
+ol.paper {
+    counter-reset: list;
+    margin: 0;
+}
+
+ol.paper > li {
+    list-style: none;
+    position: relative;
+}
+
+ol.paper > li:before {
+    counter-increment: list;
+    content: "[" counter(list, decimal) "] ";
+    position: absolute;
+    left: -1.4em;
 }
