@@ -23,6 +23,7 @@ h1 {
     font-size: 3em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
+
 p {
     font-size: 1.2em;
     line-height: 1.4em;
@@ -65,4 +66,14 @@ ol.paper > li:before {
     content: "[" counter(list, decimal) "] ";
     position: absolute;
     left: -1.4em;
+}
+
+
+table, th, td {
+    padding: 15px;
+    text-align: right;
+}
+
+tr:nth-child(even) {
+    background-color: #e0e0e0;
 }

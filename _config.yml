@@ -2,3 +2,8 @@ name: Huayu Zhang
 markdown: kramdown
 
 permalink: /blog/:year/:month/:day/:title
+
+
+collections:
+    my_collection:
+        output : true
