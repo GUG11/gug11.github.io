@@ -4,7 +4,6 @@ title: "博士劝退+生化环材传统工科劝退"
 date: 2017-02-23
 ---
 
-认清做科研无钱无权无用又穷又苦又贱的本质，尤其是传统工科和实验科学这些劣等垃圾的专业。CS统计应用数学等高智商出路好的方向不在劝退范围之列。
 <ol>
     <li><a href="http://blog.sciencenet.cn/blog-450601-669425.html">博士后老张归国记</a></li>
     <li><a href="http://blog.sciencenet.cn/blog-250217-801152.html">范博中Cell</a></li>
