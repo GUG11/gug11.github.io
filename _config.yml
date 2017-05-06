@@ -1,5 +1,7 @@
 name: Huayu Zhang
-markdown: kramdown
+
+theme: jekyll-theme-slate
+# markdown: kramdown
 
 permalink: /blog/:year/:month/:day/:title
 
