@@ -1,11 +1,8 @@
-name: Huayu Zhang
-
+title: Huayu Zhang
+description: University of Wisconsin-Madison
+show_downloads: true
+google_analytics:
 theme: jekyll-theme-slate
-# markdown: kramdown
-
-permalink: /blog/:year/:month/:day/:title
 
 
-collections:
-    my_collection:
-        output : true
+github: https://github.com/GUG11
