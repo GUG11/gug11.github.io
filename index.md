@@ -1,6 +1,7 @@
 ---
 layout: default
 ---
+<div style="text-align: right"> <a href="index-zh.html">中文 </a></div>
 
 ![](photos/IMG_20160918_104348.jpg)
 
