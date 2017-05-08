@@ -30,6 +30,7 @@ I'm a graduate student in the [Department of Electrical and Computer Engineering
 ---
 # [Projects](#prj)
 1. [High-dynamic-range Imaging](https://gug11.github.io/HDR/) <!-- ![](photos/Hall.jpg) -->
+1. [Lock-Free Parallel Stochastic Gradient Descent(SGD) on dense data](https://gug11.github.io/parallelSGD/)
 
 ---
 # [Publications](#pub)
