@@ -21,7 +21,7 @@ layout: default
 ---
 ## [項目](#prj)
 1. [High-dynamic-range Imaging](https://gug11.github.io/HDR/) <!-- ![](photos/Hall.jpg) -->
-1. [Lock-Free Parallel Stochastic Gradient Descent(SGD) on dense data](https://gug11.github.io/parallel_sgd/)
+1. [Lock-Free Parallel Stochastic Gradient Descent(SGD) on dense data](https://gug11.github.io/parallelSGD/)
 
 ---
 ## [论文](#pub)
