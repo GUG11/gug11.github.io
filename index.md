@@ -1,5 +1,8 @@
 ---
 layout: default
+language: en
+title: Huayu Zhang
+
 ---
 <div style="text-align: right"> <a href="index-zh.html">中文 </a></div>
 
