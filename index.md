@@ -15,8 +15,8 @@ I'm a graduate student in the [Department of Electrical and Computer Engineering
 - - -
 # [News](#news)
 
-* 05/2017 I am interning in [Facebook](https://www.facebook.com). 
-* 12/2016 [M.S.E.E. degree](Diplomas/MSEE_diploma.jpg) conferred. 
+* 05/2017-08/2017 I interned in [Facebook](https://www.facebook.com) traffic infrastructure team.
+* 12/2016 [M.S.E.E. degree](Diplomas/MSEE_diploma.jpg) conferred.
 * 05/2016-08/2016 I interned in [Toshiba Medical Research Institute, USA](http://www.tmru.com/). I worked on PET image segmentation and registration.
 
 - - -
