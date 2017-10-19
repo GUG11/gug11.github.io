@@ -2,8 +2,9 @@
 layout: blog
 title: "博士劝退+劳动密集型科研劝退" 
 date: 2017-02-23
-
 ---
+
+# 劝退一人胜发7篇IEEE/ACM/PRL/CNS
 
 1. [博士后老张归国记](http://blog.sciencenet.cn/blog-450601-669425.html)
 1. [范博中Cell](http://blog.sciencenet.cn/blog-250217-801152.html)
@@ -22,8 +23,10 @@ date: 2017-02-23
 1. [如何看待清华大学13级博士生补助涨了250？](https://www.zhihu.com/question/56900072/answer/150878878)
 1. [没有人会告诉你，读博士要付出一种很可怕的代价](https://zhuanlan.zhihu.com/p/20360381)
 1. [25岁做什么，可在5年后受益匪浅？徐国曦的回答](https://www.zhihu.com/question/52178718/answer/173415032)
-1. [怎么看待美国女博士生唐晓琳失联？](https://www.zhihu.com/question/66190044/answer/239541352)
+1. [如何看待美国犹他大学博士生唐晓琳被证实已死亡？](https://www.zhihu.com/question/66190044/answer/239541352)
 1. [我们这一代：致85后兼说垃圾专业二三事](https://zhuanlan.zhihu.com/p/29901509)
+1. [生化环材四大天坑劝退指南](https://zhuanlan.zhihu.com/p/30267731)
+1. [计算机行业都已经饱和了三十年了!](https://zhuanlan.zhihu.com/p/30142476)
 1. [劝退学导论：第一部分](https://zhuanlan.zhihu.com/p/26647300)
 1. [《劝退学导论》第二部分（上）](https://zhuanlan.zhihu.com/p/27188243)
 1. [给洗地党的一记响亮耳光：《劝退学导论》第二部分（下）待更新](https://zhuanlan.zhihu.com/p/28419399)
