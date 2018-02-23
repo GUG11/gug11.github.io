@@ -1,0 +1,56 @@
+---
+layout: blog
+title: "博士劝退+劳动密集型科研劝退" 
+date: 2017-02-23
+---
+
+# 劝退一人胜发7篇IEEE/ACM/PRL/CNS
+
+## 失败专业
+1. [知乎-生物劝退-劝退一人胜发7篇CNS](https://www.zhihu.com/topic/20042479/hot)
+1. [知乎-材料劝退-关于劝退材料行业坑内人员这项功德无量的事情](https://www.zhihu.com/topic/20050267/hot)
+1. [知乎-选错了专业只能“删号重练”吗？](https://www.zhihu.com/question/55725901/answer/148528132)
+1. [知乎-历史的行程——劝退一人胜发⑨篇Nature](https://zhuanlan.zhihu.com/p/23135784)
+1. [我们这一代：致85后兼说垃圾专业二三事](https://zhuanlan.zhihu.com/p/29901509)
+1. [生化环材四大天坑劝退指南](https://zhuanlan.zhihu.com/p/30267731)
+1. [劝退学导论：第一部分](https://zhuanlan.zhihu.com/p/26647300)
+1. [也谈高考、专业、城市与阶层固化的关系](https://zhuanlan.zhihu.com/p/33860917)
+1. [垃圾专业与传销](https://zhuanlan.zhihu.com/p/33695685)
+
+## 搬砖苦工
+1. [有机化学研究生为什么普遍都被要求每天工作十小时以上？](https://www.zhihu.com/question/56671076/answer/150764197)
+1. [范博中Cell](http://blog.sciencenet.cn/blog-250217-801152.html)
+
+## 生活艰难
+1. [博士后老张归国记](http://blog.sciencenet.cn/blog-450601-669425.html)
+1. [老王，老刘和老张，小红和小芳](http://bbs.wenxuecity.com/joke/523855.html)
+1. [千老的黄昏](http://blog.sciencenet.cn/blog-250217-801146.html)
+1. [生物千老之同学会篇](https://www.douban.com/group/topic/55227892/)
+1. [在美国，博士后为什么被华裔称为“千老”](http://muchong.com/html/201506/9058286.html)
+1. [如何看待清华大学13级博士生补助涨了250？](https://www.zhihu.com/question/56900072/answer/150878878)
+
+## 精神摧残
+1. [如何看待美国犹他大学博士生唐晓琳被证实已死亡？](https://www.zhihu.com/question/66190044/answer/239541352)
+1. [没有人会告诉你，读博士要付出一种很可怕的代价](https://zhuanlan.zhihu.com/p/20360381)
+
+## 出路惨淡
+1. [25岁做什么，可在5年后受益匪浅？徐国曦的回答](https://www.zhihu.com/question/52178718/answer/173415032)
+1. [I am 30. I just got a fucking PhD and I am unemployed.](https://www.reddit.com/r/IAmA/comments/niid1/i_am_30_i_just_got_a_fucking_phd_and_i_am/)
+1. [Getting my PhD sucks hard](https://www.reddit.com/r/offmychest/comments/2q3kpj/getting_my_phd_sucks_hard/)
+1. [The disposable academic](http://www.economist.com/node/17723223/)
+
+## 所谓情怀
+1. [给洗地党的一记响亮耳光：《劝退学导论》第二部分（下）待更新](https://zhuanlan.zhihu.com/p/28419399)
+1. [《劝退学导论》第二部分总结，以及一切事情](https://zhuanlan.zhihu.com/p/29552563)
+1. [论如何把loser包装成励志模范](https://zhuanlan.zhihu.com/p/33810983)
+
+## 长者忠告
+1. [University of Washington Physics Professor: Don't Become a Scientist!](http://katz.fastmail.us/scientist.html)
+
+## 现身说法
+1. [我为什么逃离科研](http://blog.sciencenet.cn/blog-662228-633685.html)
+1. [不是读博的料，别急着上博士这条船](https://site.douban.com/106790/widget/notes/2002622/note/278461408/)
+1. [给十年前的自己，一个化学苦逼博士的科研之路!](http://www.500d.me/article/4072.html)
+1. [《劝退学导论》第二部分（上）](https://zhuanlan.zhihu.com/p/27188243)
+1. ["I'm Glad I Quit My PhD"– 4 Permissions I've Learned to Give Myself](http://www.selloutyoursoul.com/2013/11/06/im-glad-i-quit-my-phd/)
+

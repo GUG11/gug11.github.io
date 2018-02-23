@@ -9,22 +9,22 @@ title: Huayu Zhang
 ![](photos/IMG_20160918_104348.jpg)
 
 ---
-I'm a graduate student in the [Department of Electrical and Computer Engineering](http://www.engr.wisc.edu/ece.html) and [Computer Sciences](https://www.cs.wisc.edu/) at [University of Wisconsin-Madison](http://www.wisc.edu/). Before coming to UW-Madison, I received my B.E. from [Department of Engineering Physics](http://www.tsinghua.edu.cn/publish/ep/index.html), [Tsinghua University](http://www.tsinghua.edu.cn/publish/newthu/index.html).
+I was a graduate student in the [Department of Electrical and Computer Engineering](http://www.engr.wisc.edu/ece.html) and [Computer Sciences](https://www.cs.wisc.edu/) at [University of Wisconsin-Madison](http://www.wisc.edu/). Before coming to UW-Madison, I received my B.E. from [Department of Engineering Physics](http://www.tsinghua.edu.cn/publish/ep/index.html), [Tsinghua University](http://www.tsinghua.edu.cn/publish/newthu/index.html).
 
 
 - - -
 # [News](#news)
 
+* 12/2017 I graduated from University of Wisconsin-Madison.
 * 05/2017-08/2017 I interned in [Facebook](https://www.facebook.com) traffic infrastructure team.
-* 12/2016 [M.S.E.E. degree](Diplomas/MSEE_diploma.jpg) conferred.
 * 05/2016-08/2016 I interned in [Toshiba Medical Research Institute, USA](http://www.tmru.com/). I worked on PET image segmentation and registration.
 
 - - -
 # [Education](#edu)
 
 - University of Wisconsin-Madison
-    - Master of Science Computer Sciences, 2016 - Present
-    - Master of Science Electrical Engineering, 2015 - 2016
+    - [Master of Science Computer Sciences](Diplomas/MSCS_diploma.jpg), 2016 - 2017
+    - [Master of Science Electrical Engineering](Diplomas/MSEE_diploma.jpg), 2015 - 2016
 - Tsinghua University
     - B.E. Engineering Physics 2011-2015. GPA: 92/100. Rank: 2/149
     - Minor Computer Technology. GPA: 92.4/100
@@ -34,6 +34,7 @@ I'm a graduate student in the [Department of Electrical and Computer Engineering
 # [Projects](#prj)
 1. [High-dynamic-range Imaging](https://gug11.github.io/HDR/) <!-- ![](photos/Hall.jpg) -->
 1. [Lock-Free Parallel Stochastic Gradient Descent(SGD) on dense data](https://gug11.github.io/parallelSGD/)
+1. [Hacking xv6 kernel](https://github.com/GUG11/CS537-xv6)
 
 ---
 # [Publications](#pub)
