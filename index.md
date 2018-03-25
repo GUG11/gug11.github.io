@@ -14,7 +14,7 @@ I was a graduate student in the [Department of Electrical and Computer Engineeri
 
 - - -
 # [News](#news)
-
+* 03/2018 I joined [Facebook](https://www.facebook.com) as a software engineer.
 * 12/2017 I graduated from University of Wisconsin-Madison.
 * 05/2017-08/2017 I interned in [Facebook](https://www.facebook.com) traffic infrastructure team.
 * 05/2016-08/2016 I interned in [Toshiba Medical Research Institute, USA](http://www.tmru.com/). I worked on PET image segmentation and registration.
