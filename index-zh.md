@@ -4,8 +4,6 @@ language: cn
 title: 张华宇
 
 ---
-![](assets/photos/IMG_20160918_104348.jpg)
----
 [威斯康星大学麦迪逊分校](http://www.wisc.edu/)[电子与计算机工程系](http://www.engr.wisc.edu/ece.html)与[计算机科学系](https://www.cs.wisc.edu/)研究生. 本科毕业于[清华大学](http://www.tsinghua.edu.cn/publish/newthu/index.html)[工程物理系](http://www.tsinghua.edu.cn/publish/ep/index.html). 
 
 - - -

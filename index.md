@@ -4,8 +4,6 @@ language: en
 title: Huayu Zhang
 
 ---
-![](assets/photos/huayu_monterey.jpg)
----
 I am a Software Engineer in Facebook. I was a graduate student in the [Department of Electrical and Computer Engineering](http://www.engr.wisc.edu/ece.html) and [Computer Sciences](https://www.cs.wisc.edu/) at [University of Wisconsin-Madison](http://www.wisc.edu/). Before coming to UW-Madison, I received my B.E. from [Department of Engineering Physics](http://www.tsinghua.edu.cn/publish/ep/index.html), [Tsinghua University](http://www.tsinghua.edu.cn/publish/newthu/index.html).
 
 
