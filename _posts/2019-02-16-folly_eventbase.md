@@ -2,6 +2,7 @@
 layout: blog
 title: Studying folly EventBase from a test example 
 date: 2019-02-16
+tags: [dev]
 
 ---
 folly [EventBase](https://github.com/facebook/folly/blob/master/folly/io/async/README.md) is an event handling module built on libevent. It is extremely useful in asynchronous and network programming. In this article, we start from the TestCase [EventBaseTest.ReadEvent](https://github.com/facebook/folly/blob/08a5c35995f27de4b6b05fff784bfea7a37e118b/folly/io/async/test/EventBaseTest.cpp#L188). The test creates a socket pair. On one side, it schedules two events that write byte streams to the socket. On the other side, it sets up a listener for events and read bytes from the socket. All operations share one event base.
