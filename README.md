@@ -1,3 +1,9 @@
+# How to make the GitHub Page
+
+1. [Jekyll for static website](https://jekyllrb.com/)
+1. [Use Google Analysis to track the traffic](https://michaelsoolee.com/google-analytics-jekyll/)
+
+# Archived
 # The Slate theme
 
 [![Build Status](https://travis-ci.org/pages-themes/slate.svg?branch=master)](https://travis-ci.org/pages-themes/slate) [![Gem Version](https://badge.fury.io/rb/jekyll-theme-slate.svg)](https://badge.fury.io/rb/jekyll-theme-slate)
