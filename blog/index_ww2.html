@@ -1,0 +1,59 @@
+---
+layout: blog
+title: 二战 World War II
+---
+<!-- <h1>{{ page.title }}</h1> -->
+
+<div id="blog_wrapper" class="outer">
+    <section id="storm_gathering" class="inner">
+        <h1>风暴前夕</h1>
+        <h3>欧洲</h3>
+        <ul class="posts">
+            {% for post in site.posts reversed %}
+            {% if post.tags contains 'ww2' %}
+            {% if post.tags contains 'storm_gathering' %}
+            {% if post.tags contains 'europe' %}
+            <li><a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
+            {% endif %}
+            {% endif %}
+            {% endif %}
+            {% endfor %}
+        </ul>
+        <h3>亚洲</h3>
+        <ul class="posts">
+            {% for post in site.posts reversed %}
+            {% if post.tags contains 'ww2' %}
+            {% if post.tags contains 'storm_gathering' %}
+            {% if post.tags contains 'asia' %}
+            <li><a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
+            {% endif %}
+            {% endif %}
+            {% endif %}
+            {% endfor %}
+        </ul>
+    </section>
+    <section id="ww2_start" class="inner">
+        <h1>大战爆发</h1>
+    </section>
+    <section id="ww2_ussr_expansion" class="inner">
+        <h1>苏联扩张</h1>
+    </section>
+    <section id="ww2_north_africa" class="inner">
+        <h1>大漠孤烟</h1>
+    </section>
+    <section id="ww2_patriotic_war" class="inner">
+        <h1>卫国战争</h1>
+    </section>
+    <section id="ww2_asiapacific" class="inner">
+        <h1>亚太风云</h1>
+    </section>
+    <section id="ww2_light_of_victory" class="inner">
+        <h1>胜利曙光</h1>
+    </section>
+    <section id="ww2_reich_collapsed" class="inner">
+        <h1>帝国末日</h1>
+    </section>
+    <section id="ww2_japan_surrendered" class="inner">
+        <h1>困兽之斗</h1>
+    </section>
+</div>
